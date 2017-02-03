@@ -97,7 +97,7 @@
     "signal-exit": "^3.0.1",
     "spawn-wrap": "1.2.4",
     "test-exclude": "^4.0.0",
-    "yargs": "^6.6.0",
+    "yargs": "https://github.com/rcoy-v/yargs.git#configuration-extend",
     "yargs-parser": "^4.0.2"
   },
   "devDependencies": {
